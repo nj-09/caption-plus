@@ -1,0 +1,6 @@
+.env
+# Don't upload Python cache or environment
+__pycache__/
+.venv/
+.env
+*.pycﬁ
